@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/gabor/repos/api'
+let g:netrw_dirhist_3='/home/gabor/repos/api/frontend/src/lib'
+let g:netrw_dirhist_2='/home/gabor/repos/api/frontend/src'
+let g:netrw_dirhist_1='/home/gabor/repos/api/frontend'
+let g:netrw_dirhist_0='/home/gabor/repos/api/frontend/src'
+let g:netrw_dirhist_9='/home/gabor/repos/api/frontend/src/lib'
+let g:netrw_dirhist_8='/home/gabor/repos/api/frontend/src'
+let g:netrw_dirhist_7='/home/gabor/repos/api/frontend'
+let g:netrw_dirhist_6='/home/gabor/repos/api/frontend/src'
+let g:netrw_dirhist_5='/home/gabor/repos/api/frontend/src/routes'

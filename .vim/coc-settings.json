@@ -1,0 +1,14 @@
+{
+  "svelte.enable-ts-plugin": false,
+	"workspace.ignoredFolders": [
+  "$HOME",
+  "$HOME/.cargo/**",
+  "$HOME/.rustup/**"
+],
+"svelte.ask-to-enable-ts-plugin": false,
+"rust-analyzer.cargo.loadOutDirsFromCheck": false,
+"rust-analyzer.procMacro.enable": false,
+"rust-analyzer.cargo.runBuildScripts": false,
+"rust-analyzer.lruCapacity": 64,
+"rust-analyzer.files.watcher": "client"
+}
